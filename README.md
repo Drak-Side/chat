@@ -57,42 +57,14 @@ This is a simple Chatting Application built using Java Swing for the GUI and soc
 5. **Chat Away!**
     - The client window will open, and you can start chatting by typing a message and clicking the "Send" button.
 
-## Code Structure
 
-```
-├── src
-│   └── chatting
-│       └── application
-│           ├── Server.java
-│           ├── Client.java
-│           └── icons
-│               ├── 1.png
-│               ├── 2.png
-│               ├── 3.png
-│               ├── 3icon.png
-│               ├── phone.png
-│               └── video.png
-└── README.md
-```
 
-- **Server.java**: Contains the server-side logic to handle incoming connections and message forwarding.
-- **Client.java**: Contains the client-side logic for connecting to the server and sending/receiving messages.
-- **icons**: Folder containing images used in the user interface.
-
-## Customization
-
-- **Icons**: The icons used in the toolbar can be replaced with custom images.
-- **User Interface**: The UI components such as fonts, colors, and layout can be customized in the `Server.java` and `Client.java` files.
 
 ## Future Improvements
 
 - **Multithreading**: Improve the server to handle multiple clients simultaneously using multithreading.
 - **Database Integration**: Store chat history in a database for future retrieval.
 - **Enhanced Features**: Add functionalities like file sharing, group chat, and notifications.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
