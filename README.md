@@ -31,8 +31,8 @@ This is a simple Chatting Application built using Java Swing for the GUI and soc
 
 1. **Clone the Repository**
     `
-    git clone https://github.com/yourusername/java-chatting-application.git
-    cd java-chatting-application
+    git clone https://github.com/Drak-Side/chat.git
+    cd chat
     `
 
 2. **Compile the Code**
